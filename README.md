@@ -33,5 +33,9 @@ This folder contains my projects for the Intermediate Level of the Codveda Data 
 - `time_series_decomposition.png`: Visual breakdown of trend/seasonality.
 - `moving_average.png`: 12-month smoothed trend chart.
 
+## Level 3: Advanced (Completed)
+- **Predictive Modeling:** Built a model to predict customer churn using `churn-bigml` datasets.
+- **Sentiment Analysis:** Created a tool to classify text feedback as Positive, Negative, or Neutral.
+- **Tools:** Python, Pandas, Matplotlib, Logic-based Modeling.
 ## Tools Used:
 - Python (Pandas, Matplotlib, NumPy, Statsmodels)
